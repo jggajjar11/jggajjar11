@@ -1,4 +1,4 @@
-![Header](https://github.com/jggajjar11/jggajjar11/blob/main/icons/header-github.png)
+![Header](https://github.com/jggajjar11/jggajjar11/main/icons/header-github.png)
 
 <img src="https://komarev.com/ghpvc/?username=jggajjar11&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 
