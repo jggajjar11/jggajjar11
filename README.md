@@ -9,7 +9,7 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
 <strong>My skills might be limited, but my desire to learn new things and develop professionally is endless.</strong>
 
 <details>
-  <summary><h2> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZHlvYmEwcXc3YW51YzFhYnlwZGI1Ymp1bzlkM2J1c3huMGc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  width="50"/> Resume</h2></summary>
+  <summary><h2> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZHlvYmEwcXc3YW51YzFhYnlwZGI1Ymp1bzlkM2J1c3huMGc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  width="70"/> Resume</h2></summary>
  <details>
   <summary><h4> <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
@@ -67,8 +67,33 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/projects.gif"  width="29"/> Projects</h4></summary>
 </details>
+
+<details>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+  <a href="https://github.com/jggajjar1">
+    <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Github.gif" width="70"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jainish-gajjar/">
+    <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Linkedin.gif" width="70"/>
+  </a>
+</div>
+
+  
+</details>
+
+## <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Contact.gif"  width="37"/> Contact Me
+
+<p> 
+ <i>You can reach out to me via</i> 
+&nbsp;<a href="mailto:jainish9gajjar@gmail.com">
+     <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Gmail.gif"  width="100"/>
+ </a>
+</p>
+
 
 </details>
 
