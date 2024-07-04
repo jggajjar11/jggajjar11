@@ -4,7 +4,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Web Engineer with knowledge of experience designing and building responsive web design. Proficient with CSS and JS frameworks, with extensive knowledge of UX and user psychology.
+I am a passionate Web Engineer with a strong background in creating modern, responsive, and user-friendly websites. With 1.5 of experience in frontend development, I specialize in translating designs and wireframes into high-quality code and building scalable applications. My technical expertise includes proficiency in HTML5, CSS3, JavaScript (ES6+), and various modern frameworks/libraries such as Tailwind, React.js, Vue.js </br>
 <strong>My skills might be limited, but my desire to learn new things and develop professionally is endless.</strong>
 
 <!--
