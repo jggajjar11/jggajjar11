@@ -1,6 +1,11 @@
 ![Header](https://github.com/jggajjar11/jggajjar11/blob/main/icons/github-header.png)
 
-<img src="https://komarev.com/ghpvc/?username=jggajjar11&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=jggajjar11&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+
+I am a passionate Web Engineer with knowledge of experience designing and building responsive web design. Proficient with CSS and JS frameworks, with extensive knowledge of UX and user psychology.
+<strong>My skills might be limited, but my desire to learn new things and develop professionally is endless.</strong>
 
 <!--
 **jggajjar11/jggajjar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
