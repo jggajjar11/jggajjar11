@@ -76,7 +76,7 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/jggajjar1">
+  <a href="https://github.com/jggajjar11">
     <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/jainish-gajjar/">
