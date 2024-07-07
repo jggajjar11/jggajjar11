@@ -102,9 +102,10 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
 </details>
 
 <div class="flex-container" style="display: flex; flex-direction: column; gap:10px;">
-  <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiZmg1aTU2am9scnc4dTNscWxteXQwdGtwOWUwa2pzYmtpYnoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmgdpcJwUngcXm/giphy.gif' />
-
+  
   ##  Grab a Piece of Motivation!!
+
+  <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiZmg1aTU2am9scnc4dTNscWxteXQwdGtwOWUwa2pzYmtpYnoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmgdpcJwUngcXm/giphy.gif' />
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](/)
