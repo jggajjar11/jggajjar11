@@ -101,6 +101,8 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   
 </details>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jggajjar11&theme=onedark)](https://github.com/jggajjar11/github-profile-trophy)
+
 ## <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
