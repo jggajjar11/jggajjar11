@@ -35,7 +35,7 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![Bhailang](https://img.shields.io/badge/Bhailang-%23E34F26.svg?style=for-the-badge&logo=bhailang&logoColor=white)
+  ![Bhailang](https://img.shields.io/badge/Bhailang-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -45,10 +45,10 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   #### Libraries/Frameworks
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
   ![Express.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -73,10 +73,24 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
 </details>
 
 <details>
+  <summary><h2> <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  
+  ### GitHub
+  <div align="center">
+
+   ![](https://github-readme-stats.vercel.app/api?username=jggajjar11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=jggajjar11&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jggajjar11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=jggajjar11&theme=tokyo-night)
+
+  </div>
+</details>
+
+<details>
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/jggajjar11">
+  <a href="https://github.com/jggajjar1">
     <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/jainish-gajjar/">
