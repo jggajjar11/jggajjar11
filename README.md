@@ -105,6 +105,8 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   
   ##  Grab a Piece of Motivation!!
 
+  </br>
+  
   <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiZmg1aTU2am9scnc4dTNscWxteXQwdGtwOWUwa2pzYmtpYnoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmgdpcJwUngcXm/giphy.gif' />
 </div>
 
