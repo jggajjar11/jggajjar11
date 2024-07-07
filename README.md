@@ -101,7 +101,8 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   
 </details>
 
-<h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhxNXB5eHF4czJ5M3FkdzZreHJ0Y2tqN3o3eGp6b2ZlejlsMWR1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xt1MUZqkneFiWrAAD/giphy.gif' width ='37' /> Socials</h2>
+<h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhxNXB5eHF4czJ5M3FkdzZreHJ0Y2tqN3o3eGp6b2ZlejlsMWR1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xt1MUZqkneFiWrAAD/giphy.gif' width ='37' /> Trophy</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jggajjar11&theme=onedark&title=Joined2020,Repositories,Experience,Commits)](https://github.com/jggajjar11/github-profile-trophy)
 
 ## <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Contact.gif"  width="37"/> Contact Me
