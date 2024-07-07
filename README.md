@@ -101,9 +101,13 @@ I am a passionate Web Engineer with a strong background in creating modern, resp
   
 </details>
 
+## <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiZmg1aTU2am9scnc4dTNscWxteXQwdGtwOWUwa2pzYmtpYnoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmgdpcJwUngcXm/giphy.gif' width ='50' /> Grab a Piece of Motivation!!
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+
 ## <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhxNXB5eHF4czJ5M3FkdzZreHJ0Y2tqN3o3eGp6b2ZlejlsMWR1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xt1MUZqkneFiWrAAD/giphy.gif' width ='37' /> Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jggajjar11&theme=onedark&title=Joined2020,Repositories,Experience,Commits)](https://github.com/jggajjar11/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jggajjar11&theme=onedark&title=Joined2020,Repositories,Experience,Commits)]
 
 ## <img align="center" src="https://github.com/jggajjar11/jggajjar11/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
